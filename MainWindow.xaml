@@ -1,0 +1,112 @@
+﻿<Window x:Class="Wpf_LanzadorParcial2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_LanzadorParcial2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="900">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF2E8707" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Menu Margin="0,0,0,479">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Menu.Background>
+            <MenuItem Header="Archivo" FontSize="22" FontWeight="Bold" FontStyle="Italic">
+                <MenuItem x:Name="MenuFirma" Header="Firma" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MenuFirma_Click"/>
+                <Separator/>
+                <MenuItem x:Name="MenuSalir" Header="Salir" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MenuSalir_Click"/>
+            </MenuItem>
+            <MenuItem Header="Practicas" FontSize="22" FontWeight="Bold" FontStyle="Italic">
+                <MenuItem x:Name="MP1" Header="P1 03/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP1_Click"/>
+                <MenuItem x:Name="MP2" Header="P2 07/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP2_Click"/>
+                <MenuItem x:Name="MP3" Header="P3 07/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP3_Click"/>
+                <MenuItem x:Name="MP4" Header="P4 07/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP4_Click"/>
+                <MenuItem x:Name="MP5" Header="P5 08/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP5_Click"/>
+                <MenuItem x:Name="MP6" Header="P6 08/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP6_Click"/>
+                <MenuItem x:Name="MP7" Header="P7 10/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP7_Click"/>
+                <MenuItem x:Name="MP8" Header="P8 10/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP8_Click"/>
+                <MenuItem x:Name="MP9" Header="P9 14/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP9_Click"/>
+                <MenuItem x:Name="MP10" Header="P10 14/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP10_Click"/>
+                <MenuItem x:Name="MP11" Header="P11 15/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP11_Click"/>
+                <MenuItem x:Name="MP12" Header="P12 15/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP12_Click"/>
+                <MenuItem x:Name="MP13" Header="P13 17/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP13_Click"/>
+                <MenuItem x:Name="MP14" Header="P14 17/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP14_Click"/>
+                <MenuItem x:Name="MP15" Header="P15 17/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP15_Click"/>
+                <MenuItem x:Name="MP16" Header="P16 22/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP16_Click"/>
+                <MenuItem x:Name="MP17" Header="P17 22/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP17_Click"/>
+                <MenuItem x:Name="MP18" Header="P18 24/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP18_Click"/>
+                <MenuItem x:Name="MP19" Header="P19 24/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP19_Click"/>
+                <MenuItem x:Name="MP20" Header="P20 24/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP20_Click"/>
+                <MenuItem x:Name="MP21" Header="P21 28/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP21_Click"/>
+                <MenuItem x:Name="MP22" Header="P22 07/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP22_Click"/>
+                <MenuItem x:Name="MP23" Header="P23 31/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP23_Click"/>
+                <MenuItem x:Name="MP24" Header="P24 31/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP24_Click"/>
+                <MenuItem x:Name="MP25" Header="P25 11/04/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="MP25_Click"/>
+
+            </MenuItem>
+            <MenuItem Header="Proyectos" FontSize="22" FontWeight="Bold" FontStyle="Italic">
+                <MenuItem x:Name="PR1" Header="P1 30/03/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="PR1_Click"/>
+                <MenuItem x:Name="PR2" Header="P2 23/04/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="PR2_Click"/>
+                <MenuItem x:Name="PR3" Header="P3 23/04/2022" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="PR3_Click"/>
+
+            </MenuItem>
+            <MenuItem Header="ProyectosGrupales" FontSize="22" FontWeight="Bold" FontStyle="Italic">
+                <MenuItem x:Name="PG1" Header="P1 Formulario ICE" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="PG1_Click"/>
+                <MenuItem x:Name="PG2" Header="P2 Calculadora ICE" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="PG2_Click"/>
+                <MenuItem x:Name="PG3" Header="P3 Osciloscopio" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontStretch="Medium" Click="PG3_Click"/>
+
+            </MenuItem>
+            <MenuItem x:Name="PE1" Header="ProyectoExamen02" FontSize="22" FontWeight="Bold" FontStyle="Italic" Click="PE1_Click"></MenuItem>
+        </Menu>
+        <TabControl Margin="19,60,19,24" FontSize="18" FontWeight="Bold" FontFamily="Cambria">
+            <TabItem x:Name="TabInicio" Header="Inicio">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="115*"/>
+                        <ColumnDefinition Width="741*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Black"/>
+                            <GradientStop Color="Red" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Image HorizontalAlignment="Left" Height="104" Margin="-21,10,0,0" VerticalAlignment="Top" Width="153" Source="/1200px-Logo_Instituto_Politécnico_Nacional.png" Grid.ColumnSpan="2"/>
+                    <Image HorizontalAlignment="Left" Height="100" Margin="10,114,0,0" VerticalAlignment="Top" Width="100" Source="/esimetwitter_400x400.png"/>
+                    <Image HorizontalAlignment="Left" Height="134" Margin="631,10,0,0" VerticalAlignment="Top" Width="146" Source="/Jhon.jpg" OpacityMask="#FFC5FC0C" Grid.Column="1"/>
+                    <Border BorderBrush="#FFEEFF36" BorderThickness="1" Margin="631,10,10,273" Grid.Column="1"/>
+                    <Label Content="Instituto Politecnico Nacional " HorizontalAlignment="Left" Margin="57,38,0,0" VerticalAlignment="Top" Height="44" Width="512" Foreground="White" FontSize="36" FontStyle="Oblique" BorderBrush="#FF3FEE00" Grid.Column="1"/>
+                    <Label Content="Escuela Superiro de Ingenieria Mecànica y Elèctrica" HorizontalAlignment="Left" Margin="11,85,0,0" VerticalAlignment="Top" Height="44" Width="604" Foreground="White" FontSize="25" FontStyle="Oblique" BorderBrush="#FF3FEE00" Grid.Column="1"/>
+                    <Label Content="Jonathan Ruiz Santos" HorizontalAlignment="Left" Height="56" Margin="133,175,0,0" VerticalAlignment="Top" Width="360" FontSize="36" FontStyle="Italic" Grid.Column="1"/>
+                    <Label Content="Ingieria de Software" HorizontalAlignment="Left" Margin="10,362,0,0" VerticalAlignment="Top" Width="178" Grid.ColumnSpan="2"/>
+                    <Label Content="Parcial 2" HorizontalAlignment="Left" Height="27" Margin="647,362,0,0" VerticalAlignment="Top" Width="94" Grid.Column="1"/>
+                    <Label Content="Proyecto Examen: App Usando Controles de documentos dinamicos" HorizontalAlignment="Left" Height="53" Margin="57,271,0,0" VerticalAlignment="Top" Width="566" FontSize="18" FontStyle="Italic" Grid.Column="1"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="Parcial_2" Header="Notas Parcial 2" Height="25" VerticalAlignment="Top">
+                <Grid>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Black"/>
+                            <GradientStop Color="#FFFFA600" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <Image x:Name="PDFApuntes" HorizontalAlignment="Left" Height="231" Margin="587,59,0,0" VerticalAlignment="Top" Width="214" Source="/1200px-PDF_file_icon.svg.png" MouseLeftButtonDown="PDFApuntes_MouseLeftButtonDown"/>
+                    <Label Content="Apuntes Segundo Departamental" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top" Width="577" Height="69" FontSize="36" Foreground="White"/>
+                    <Label Content="Ingenieria de Software" HorizontalAlignment="Left" Margin="100,106,0,0" VerticalAlignment="Top" Width="396" Height="68" FontSize="36" Foreground="White"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

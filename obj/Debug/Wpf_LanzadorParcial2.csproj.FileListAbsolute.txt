@@ -1,0 +1,16 @@
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\bin\Debug\Wpf_LanzadorParcial2.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\bin\Debug\Wpf_LanzadorParcial2.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\bin\Debug\Wpf_LanzadorParcial2.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\MainWindow.g.cs
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\App.g.cs
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2_MarkupCompile.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2_MarkupCompile.lref
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\MainWindow.baml
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2.g.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Wpf_LanzadorParcial2\obj\Debug\Wpf_LanzadorParcial2.pdb
